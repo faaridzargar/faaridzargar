@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **finding an internship/job**
 
-- 👨‍💻 All of my projects are available at [http://faaridzargar.github.io](http://faaridzargar.github.io)
+- 👨‍💻 All of my projects are available at [http://faaridzargar.github.io](http://faaridz.netlify.app)
 
 - 📫 How to reach me **zargarfaarid@icloud.com**
 
